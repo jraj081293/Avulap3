@@ -1,2 +1,2 @@
 # Avulap3
-this is just sample use
+this is just sample app
