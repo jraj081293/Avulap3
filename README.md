@@ -1,2 +1,2 @@
 # Avulap3
-Just use
+this is just sample use
